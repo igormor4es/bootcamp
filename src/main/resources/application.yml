@@ -18,3 +18,4 @@ spring:
 
 application:
   description: Projeto criado para o bootcamp DIO - Santander
+  version: 1.0
